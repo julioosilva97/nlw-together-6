@@ -1,6 +1,6 @@
 # aplicação payflow
 
-![Web 3](https://drive.google.com/file/d/1FyS7A2WkftQb7otiPIifr5v7yLqlqgkY/view?usp=sharing)
+![Web 3](https://github.com/julioosilva97/nlw-together-6/blob/main/WhatsApp%20Image%202021-06-25%20at%2021.32.35.jpeg)
 
 Bootcamp: https://nextlevelweek.com/
 Figma: https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow?node-id=0%3A1 
